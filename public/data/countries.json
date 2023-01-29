@@ -1,0 +1,77 @@
+{
+    "data": [
+      {
+        "subject": "Arabic language",
+        "topics": [
+          {
+            "label": "Reading"
+          },
+          {
+            "label": "Reading comprehension"
+          },
+          {
+            "label": "Writing"
+          }          
+        ]
+      },
+      {
+        "subject": "Islamic education",
+        "topics": [
+          {
+            "label": "Morals"
+          },
+          {
+            "label": "Law"
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "topics": [
+          {
+            "label": "Travel"
+          },
+          {
+            "label": "Moroccan"
+          }
+        ]
+      },            
+      {
+        "subject": "Mathematics",
+        "topics": [
+          {
+            "label": "Arithmetic"
+          },
+          {
+            "label": "Trigonometry"
+          }
+        ]   
+      },
+      {
+        "subject": "IT",
+        "topics": [
+          {
+            "label": "Coding"
+          },
+          {
+            "label": "Gaming"
+          },
+          {
+            "label": "General"
+          }          
+        ]
+      },
+      {
+        "subject": "Knowledge",
+        "topics": [
+          {
+            "label": "Education"
+          },
+          {
+            "label": "Human development"
+          }
+        ]
+      }            
+    ]
+  }
+  
